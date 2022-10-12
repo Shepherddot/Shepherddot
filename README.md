@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @Shepherddot
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Shepherddot/Shepherddot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- My interest is 3D computer vision and high performance computing.
+- google scholar: https://scholar.google.com/citations?user=frTpBxAAAAAJ&hl=en
+- youtube: https://www.youtube.com/channel/UC4R207ZIcaHoriOkguFi6_A
+- email: 312457231@qq.com
