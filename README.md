@@ -1,4 +1,4 @@
 - My interest is 3D computer vision and high performance computing.
 - google scholar: https://scholar.google.com/citations?user=frTpBxAAAAAJ&hl=en
 - youtube: https://www.youtube.com/channel/UC4R207ZIcaHoriOkguFi6_A
-- email: 312457231@qq.com
+- email: wesleyliu75@hotmail.com
